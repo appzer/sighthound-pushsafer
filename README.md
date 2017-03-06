@@ -18,7 +18,7 @@ Smart security camera software for your home or business.
 5. enable Execute Command, enter the comand file path and the Pushsafer API URL as Params
 6. the command path is the path of callurl.cmd on your pc
 
-![Pushsafer](https://www.pushsafer.com/en/assets/examples/ContaCam_push-notification-1.jpg)
+![Pushsafer](https://www.pushsafer.com/en/assets/examples/Sighthound_push-notification-1.jpg)
 
 ## Screenshots of ContaCamf Push-Notifications
 
