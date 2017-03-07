@@ -20,7 +20,7 @@ Smart security camera software for your home or business.
 
 ![Pushsafer](https://www.pushsafer.com/en/assets/examples/Sighthound_push-notification-1.jpg)
 
-## Screenshots of ContaCamf Push-Notifications
+## Screenshots of Sighthound Studio Push-Notifications
 
 Screenshot Client App
 
